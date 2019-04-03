@@ -1,0 +1,23 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 50px;
+}
+
+button{
+
+}
+
+div img{
+	display: inline;
+	width: 200px;
+	margin-right: -5px;
+	vertical-align: middle;
+}
+
+#result  {
+	font-size: 24pt;
+	font-style: italic;
+}
+#fois{
+	font-size: 16pt;
+}
