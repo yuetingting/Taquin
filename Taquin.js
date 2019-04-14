@@ -223,7 +223,7 @@ let first_click = true;
 
 function color(fois){
 	if (fois<=3) return "#64dc96";
-	if (fois>3 || fois<=9) return "#fac832";
+	if (fois>3 && fois<=9) return "#fac832";
 	if (fois>9) return "#db7093";
 }
 
